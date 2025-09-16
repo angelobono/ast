@@ -16,7 +16,7 @@ include refactoring, code generation, static analysis, and automated code modifi
 ## Installation
 
 ```bash
-composer require bono/ast
+git clone https://github.com/angelobono/ast.git
 ```
 
 ## Quick Start
